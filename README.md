@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on building websites.<br>👯 I’m looking to collaborate on community projects<br>🌱 I’m currently learning NextJs, Payloads, Express, MongoDB.<br>
+# 🌺 About Me:
+🤔 I’m currently helping startups with websites.<br> 🤝🏽 I’m looking to collaborate on community projects<br>🌱 I’m currently learning NextJs, Payloads, Express, MongoDB.<br>
 
 
 ## 🌐 Socials:
