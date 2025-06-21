@@ -1,5 +1,5 @@
 # 🌺 About Me:
-🤔 I’m currently helping startups with websites.<br> 🤝🏽 I’m looking to collaborate on community projects<br>🌱 I’m currently learning NextJs, Payloads, Express, MongoDB.<br>
+🤔 I’m currently helping startups with websites.<br> 🤝🏽 I’m looking to collaborate on community projects<br>🌱 I’m currently learning Next.js, Payload CMS, Express.js, MongoDB.<br>
 
 
 ## 🌐 Socials:
